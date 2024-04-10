@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yihenew
+- 👋 Hi, I’m Yihenew
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Software Engineering at DBU.
 - 💞️ I’m looking to collaborate on Full Stack Web DEvelopment.
